@@ -1,0 +1,19 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/clang++",
+      "-c",
+      "-O2",
+      "-std=c++17",
+      "-Iinclude",
+      "-framework",
+      "WebKit",
+      "-o",
+      "webview_app",
+      "main.cpp"
+    ],
+    "directory": "/Users/janhavlis/code/ww",
+    "file": "/Users/janhavlis/code/ww/main.cpp",
+    "output": "/Users/janhavlis/code/ww/webview_app"
+  }
+]
